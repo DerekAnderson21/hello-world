@@ -1,3 +1,3 @@
 # hello-world
-CSE 360 Hello World git demo \n 
+CSE 360 Hello World git demo 
 Derek Anderson
